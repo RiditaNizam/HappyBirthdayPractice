@@ -1,0 +1,11 @@
+Learned and/or utilized the following Android concepts:
+  - relative layout
+  - linear layout
+  - drawable folder
+  - positioning
+  - styling
+  - making the text larger
+  - setting the font
+  - setting the color
+  - attributes for the ImageView
+  - how to style the image
